@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "es6-promise": "^4.2.8",
     "moment": "^2.25.3",
     "v-switch-case": "^1.0.3",
